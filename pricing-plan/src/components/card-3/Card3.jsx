@@ -37,3 +37,31 @@ export const Card3 = () => {
     </div>
   );
 };
+
+/* way 2: {} expression, works*/
+export const Card2 = () => {
+    const items = [
+      "12 Device",
+      "Unlimited Download",
+      "300+ icon Package",
+      "Fully Editables Files",
+      '2TB Storage',
+      '5TB Data Transfer'
+    ];
+    return (
+      <div className="card-1">
+        <h3>Free</h3>
+        <p>For Individual</p>
+  
+        <h2>$0</h2>
+        {items.map((item, index) => (
+          <div key = {index} className="icon1">
+            <i className="gg-check-o"></i>
+            <h4>{item}</h4>
+          </div>
+        ))}
+  
+        <button className="submit3">Subscribe</button>
+      </div>
+    );
+  };
