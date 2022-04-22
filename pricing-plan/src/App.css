@@ -13,3 +13,14 @@ body {
   background-color: #eee;
   color: #242c44;
 }
+
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 20px;
+  position: relative;
+  bottom: 10%;
+}
