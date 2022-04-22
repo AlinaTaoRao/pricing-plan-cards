@@ -1,5 +1,5 @@
 import "./App.css";
-// import { Container } from "./components/Container.jsx"; // for way 2 and 2 {}
+// import { Container } from "./components/Container.jsx"; // for way 1 and 2 {}
 import { Card } from "./Card.jsx"; // for way 3
 
 /* for way 1 & 2 {} , works*/
