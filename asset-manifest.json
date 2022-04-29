@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pricing-plan-cards/static/css/main.7c1eac3f.css",
+    "main.js": "/pricing-plan-cards/static/js/main.08739a37.js",
+    "static/js/787.195dc18e.chunk.js": "/pricing-plan-cards/static/js/787.195dc18e.chunk.js",
+    "index.html": "/pricing-plan-cards/index.html",
+    "main.7c1eac3f.css.map": "/pricing-plan-cards/static/css/main.7c1eac3f.css.map",
+    "main.08739a37.js.map": "/pricing-plan-cards/static/js/main.08739a37.js.map",
+    "787.195dc18e.chunk.js.map": "/pricing-plan-cards/static/js/787.195dc18e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c1eac3f.css",
+    "static/js/main.08739a37.js"
+  ]
+}
